@@ -10,3 +10,9 @@ Allocate task to particular user : a unique Task ID will be created autamaticall
 Manage Task : Change the task : Change status : Remove the task
 Remove User
 
+Some Images :
+
+![Screenshot 2023-11-03 172803](https://github.com/ManishPatidar806/Task-Fusion/assets/144804537/3a786dbf-6eb1-4c8e-b093-3b29403b0c59)
+
+<br>
+![Screenshot 2023-11-03 172823](https://github.com/ManishPatidar806/Task-Fusion/assets/144804537/e736fc46-27db-42e2-9af3-883beb66744a)
